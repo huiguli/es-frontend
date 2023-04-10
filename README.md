@@ -25,5 +25,5 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 
 ### learn git pull
-远程库修改，与本地库不同步了，在本地库中通过 **git pull -u 别名 分支** 命令进行同步
+远程库修改，与本地库不同步了，在本地库中通过 **git pull -u 别名 分支** 命令进行同步.
 
